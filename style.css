@@ -8,11 +8,11 @@ body{
     align-items: center;
     justify-content: center;
     text-align: center;
-    min-height: 80vh;
-    background-color: slateblue;
+    min-height: 100vh;
+    background-image:linear-gradient(to top right, red ,blue);
+    background-repeat: no-repeat;
 }
 section{
-    background-color: snow;
     padding: 30px 30px 30px 30px;
     border-radius: 10px;
 }
